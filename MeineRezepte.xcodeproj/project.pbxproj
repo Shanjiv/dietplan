@@ -99,13 +99,9 @@
 		D3AD4F481CE7D833004B8381 /* MeineRezepte */ = {
 			isa = PBXGroup;
 			children = (
-				D3AD4F491CE7D833004B8381 /* AppDelegate.swift */,
+				D3AD4F7A1CE7DA01004B8381 /* Supporting Files */,
 				D3AD4F4B1CE7D833004B8381 /* ViewController.swift */,
 				D3AD4F4D1CE7D833004B8381 /* Main.storyboard */,
-				D3AD4F531CE7D834004B8381 /* Assets.xcassets */,
-				D3AD4F551CE7D834004B8381 /* LaunchScreen.storyboard */,
-				D3AD4F581CE7D834004B8381 /* Info.plist */,
-				D3AD4F501CE7D834004B8381 /* MeineRezepte.xcdatamodeld */,
 			);
 			path = MeineRezepte;
 			sourceTree = "<group>";
@@ -126,6 +122,18 @@
 				D3AD4F6E1CE7D834004B8381 /* Info.plist */,
 			);
 			path = MeineRezepteUITests;
+			sourceTree = "<group>";
+		};
+		D3AD4F7A1CE7DA01004B8381 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D3AD4F491CE7D833004B8381 /* AppDelegate.swift */,
+				D3AD4F531CE7D834004B8381 /* Assets.xcassets */,
+				D3AD4F551CE7D834004B8381 /* LaunchScreen.storyboard */,
+				D3AD4F581CE7D834004B8381 /* Info.plist */,
+				D3AD4F501CE7D834004B8381 /* MeineRezepte.xcdatamodeld */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
