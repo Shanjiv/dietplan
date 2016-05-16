@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		74080C541CEA4BAC00212853 /* Rezept.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74080C531CEA4BAC00212853 /* Rezept.swift */; };
 		D3AD4F4A1CE7D833004B8381 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AD4F491CE7D833004B8381 /* AppDelegate.swift */; };
 		D3AD4F4C1CE7D833004B8381 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AD4F4B1CE7D833004B8381 /* ViewController.swift */; };
 		D3AD4F4F1CE7D833004B8381 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3AD4F4D1CE7D833004B8381 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		74080C531CEA4BAC00212853 /* Rezept.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rezept.swift; sourceTree = "<group>"; };
 		D3AD4F461CE7D833004B8381 /* MeineRezepte.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeineRezepte.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3AD4F491CE7D833004B8381 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D3AD4F4B1CE7D833004B8381 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				D3AD4F7A1CE7DA01004B8381 /* Supporting Files */,
 				D3AD4F4B1CE7D833004B8381 /* ViewController.swift */,
+				74080C531CEA4BAC00212853 /* Rezept.swift */,
 				D3AD4F4D1CE7D833004B8381 /* Main.storyboard */,
 			);
 			path = MeineRezepte;
@@ -269,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3AD4F4C1CE7D833004B8381 /* ViewController.swift in Sources */,
+				74080C541CEA4BAC00212853 /* Rezept.swift in Sources */,
 				D3AD4F521CE7D834004B8381 /* MeineRezepte.xcdatamodeld in Sources */,
 				D3AD4F4A1CE7D833004B8381 /* AppDelegate.swift in Sources */,
 			);
